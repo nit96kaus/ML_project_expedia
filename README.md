@@ -11,3 +11,7 @@ For example 1st run 0_data_split.py then 1_leakage_solution.py.
 4_adaboost.py : Adaboost model.  
 5_merge models.py : Combines all the three models.  
 6_final.py : Combines merge models with leakage solution.  
+
+## Output folders:
+Output folders contains output from different models and final model.  
+Final output file is in the "output" folder named as "predictions.csv"
